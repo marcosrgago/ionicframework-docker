@@ -5,7 +5,7 @@
 ```
 cd android-node-cordova && docker build . -t acodevs/android-node-cordova:2022.12.04
 ```
-## Commands to create a project of ionic framework version 6.20.3 with capacitor and cordova:
+## Commands to create a project of ionic framework version 6.20.4 with capacitor and cordova:
 ### for '*Vue*'
 ```
 cd ionic-framework && docker build . --build-arg ionic_type=vue -t acodevs/ionic-framework:2022.12.04-vue
