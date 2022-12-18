@@ -1,0 +1,8 @@
+version: '3.6'
+services:
+  app:
+    build: .
+    image: acodevs/ionic-framework:2022.12.18
+    expose:
+      - 8100
+      - 35729
